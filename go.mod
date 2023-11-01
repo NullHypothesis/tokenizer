@@ -1,4 +1,4 @@
-module github.com/brave/tokenizer
+module github.com/NullHypothesis/tokenizer
 
 go 1.20
 
